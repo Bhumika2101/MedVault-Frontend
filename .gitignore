@@ -30,4 +30,3 @@ dist-ssr
 .env.production.local
 # Ignore all environment files
 .env
-.
